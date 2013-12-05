@@ -1,0 +1,10 @@
+{
+  "name": "impropmtu-moon",
+  "version": "0.0.1",
+  "description": "Moons!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "MIT"
+}
